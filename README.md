@@ -51,12 +51,10 @@ Welcome to my GitHub profile! I specialize in creating high-performance, user-fr
   <a href="https://x.com/Cian1820178" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-
+   <a href="https://www.upwork.com/freelancers/yassim" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
 </p>
-Markdown
-These use Shields.io with a for-the-badge style which visually resembles buttons and includes icons inside them. Make sure to replace the link placeholders with your actual LinkedIn, Twitter profiles, and email address.
-
-If you have specific colors or text styles in mind, let me know, and I can help customize it further!
 
 ---
 
