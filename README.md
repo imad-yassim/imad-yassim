@@ -39,25 +39,6 @@ Welcome to my GitHub profile! I specialize in creating high-performance, user-fr
 
 ---
 
-## 🌍 Where to Find Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/imad-yassim/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:imad.yassim@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Cian1820178" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-   <a href="https://www.upwork.com/freelancers/yassim" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 🤝 Open to Collaboration
 
 I am always interested in new challenges and opportunities to collaborate on exciting projects. Feel free to reach out!
@@ -78,3 +59,18 @@ As a dedicated full-stack developer, I focus on creating tailored web applicatio
 ---
 
 📫 **Ready to get started? Let's connect and turn your vision into reality!**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/imad-yassim/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:imad.yassim@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Cian1820178" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+   <a href="https://www.upwork.com/freelancers/yassim" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+</p>
