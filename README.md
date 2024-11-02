@@ -1,12 +1,13 @@
-# Hi there! 👋 I'm Imad Yassim
 
-### Expert Full-Stack Developer | Building Scalable Web & Mobile Solutions
+### 💼 Expert Full-Stack Developer | Building Scalable Web & Mobile Solutions
+
+---
 
 Welcome to my GitHub profile! I specialize in creating high-performance, user-friendly web and mobile applications that exceed expectations and drive results. If you're looking for a developer who delivers more than just code, you've come to the right place.
 
 ---
 
-## 🚀 What I Do
+### 🚀 What I Do
 
 - **Full Stack Development:** Crafting comprehensive web app solutions, handling both frontend and backend intricacies.
 - **Custom Backend Services:** Building robust APIs and server-side solutions tailored to your business needs.
@@ -17,7 +18,7 @@ Welcome to my GitHub profile! I specialize in creating high-performance, user-fr
 
 ---
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 - **🌐 Développement Frontend:** React, Next.js, Angular, JavaScript, TypeScript
 - **🖥️ Développement Backend:** Node.js, Express.js, Nest.js, Java, Spring Boot, SQL, MySQL, MariaDB, MongoDB
@@ -29,27 +30,53 @@ Welcome to my GitHub profile! I specialize in creating high-performance, user-fr
   
 ---
 
+### 🗂️ Featured Projects
+
 ## 🗂️ Featured Projects
 
-### 🚀 Raijin Mobile App
-**Description:** Contracted to develop the Raijin app, an NFT market analysis platform, creating robust front-end and back-end systems to deliver real-time insights and analytics for users.
-**Technologies:** React Native, Android Studio, Xcode, NestJS, Google Cloud, GitHub, MongoDB, Redis
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; background-color: #171717; padding: 20px; color: #e9e8ed;">
 
-### 🎮 Shuriken Spin
-**Description:** Contributed to Shuriken Spin, a Web3 game powered by Solana smart contracts, enabling secure and decentralized gameplay mechanics.
-**Technologies:** React, Next.js, Rust, Google Cloud, GitHub Actions, Discord Auth, Tailwind CSS, MongoDB, Redis
+  <div style="background-color: #151414; border: 1px solid #171717; border-radius: 8px; padding: 15px;">
+  <img src="https://raw.githubusercontent.com/imad-yassim/imad-yassim.github.io/main/raijin-app-screenshot.jpeg"
+     alt="Shuriken Spin" style="width: 100%; border-radius: 8px; aspect-ratio: 16/9; object-fit:cover">    <h3 style="color: #8685ef;">🚀 Raijin Mobile App</h3>
+    <p><strong>Description:</strong> Contracted to develop the Raijin app, an NFT market analysis platform, creating robust front-end and back-end systems to deliver real-time insights and analytics for users.</p>
+    <p><strong>Technologies:</strong> React Native, Android Studio, Xcode, NestJS, Google Cloud, GitHub, MongoDB, Redis</p>
+  </div>
 
-### 📄 RYUJIN Whitepaper
-**Description:** Developed the Ryujin Whitepaper, outlining a strategic vision, technical framework, and roadmap for decentralized solutions.
-**Technologies:** Tailwind CSS, Firebase Hosting, Cloudflare
+  <div style="background-color: #151414; border: 1px solid #171717; border-radius: 8px; padding: 15px;">
+    <img src="https://raw.githubusercontent.com/imad-yassim/imad-yassim.github.io/main/ryujin-shuriken-spin.png"
+     alt="Shuriken Spin" style="width: 100%; border-radius: 8px; aspect-ratio: 16/9; object-fit:cover">
+    <h3 style="color: #8685ef;">🎮 Shuriken Spin</h3>
+    <p><strong>Description:</strong> Contributed to Shuriken Spin, a Web3 game powered by Solana smart contracts, enabling secure and decentralized gameplay mechanics.</p>
+    <p><strong>Technologies:</strong> React, Next.js, Rust, Google Cloud, GitHub Actions, Discord Auth, Tailwind CSS, MongoDB, Redis</p>
+  </div>
 
-### 🌐 RYUJIN Landing Page
-**Description:** Contributed to the development of the landing page for the Ryujin project, enhancing user experience and visual appeal to align with the brand's vision.
-**Technologies:** Tailwind CSS, Firebase Hosting, Cloudflare
+  <div style="background-color: #151414; border: 1px solid #171717; border-radius: 8px; padding: 15px">
+        <img src="https://raw.githubusercontent.com/imad-yassim/imad-yassim.github.io/main/ryujin-whitepaper-capture.png"
+ alt="RYUJIN Whitepaper" style="width: 100%; border-radius: 8px; aspect-ratio: 16/9; object-fit:cover">
+    <h3 style="color: #8685ef;">📄 RYUJIN Whitepaper</h3>
+    <p><strong>Description:</strong> Developed the Ryujin Whitepaper, outlining a strategic vision, technical framework, and roadmap for decentralized solutions.</p>
+    <p><strong>Technologies:</strong> Tailwind CSS, Firebase Hosting, Cloudflare</p>
+  </div>
 
-### 🛠️ Kisaco Maker
-**Description:** Collaborated with the Kisaco teams to develop the Kisaco Maker app, completing both front-end and back-end features and integrating a seamless payment system.
-**Technologies:** React, Next.js, Google Cloud, GitHub Actions, Styled Components, MariaDB, Redis
+  <div style="background-color: #151414; border: 1px solid #171717; border-radius: 8px; padding: 15px;">
+          <img src="https://raw.githubusercontent.com/imad-yassim/imad-yassim.github.io/main/ryujin-landing-page Large.jpeg"
+ alt="RYUJIN Landing Page" style="width: 100%; border-radius: 8px; aspect-ratio: 16/9; object-fit:cover; object-position:top">
+    <h3 style="color: #8685ef;">🌐 RYUJIN Landing Page</h3>
+    <p><strong>Description:</strong> Contributed to the development of the landing page for the Ryujin project, enhancing user experience and visual appeal to align with the brand's vision.</p>
+    <p><strong>Technologies:</strong> Tailwind CSS, Firebase Hosting, Cloudflare</p>
+  </div>
+
+  <div style="background-color: #151414; border: 1px solid #171717; border-radius: 8px; padding: 15px;">
+              <img src="https://raw.githubusercontent.com/imad-yassim/imad-yassim.github.io/main/kisaco-maker-screenshot.jpeg
+"
+alt="Kisaco Maker" style="width: 100%; border-radius: 8px;">
+    <h3 style="color: #8685ef;">🛠️ Kisaco Maker</h3>
+    <p><strong>Description:</strong> Collaborated with the Kisaco teams to develop the Kisaco Maker app, completing both front-end and back-end features and integrating a seamless payment system.</p>
+    <p><strong>Technologies:</strong> React, Next.js, Google Cloud, GitHub Actions, Styled Components, MariaDB, Redis</p>
+  </div>
+
+</div>
 
 ---
 
@@ -83,39 +110,12 @@ If you have specific colors or text styles in mind, let me know, and I can help 
 
 ---
 
-## 🗣️ Testimonials
-
-> "Imad delivered exceptional results, turning our vision into reality with a seamless app. Highly recommended!" — Client A
-
----
-
 ## 🤝 Open to Collaboration
 
 I am always interested in new challenges and opportunities to collaborate on exciting projects. Feel free to reach out!
 
 ---
 
-## 💡 Who Can Benefit?
-
-- **Startups:** Launch your innovative idea with a standout web app!
-- **Small Businesses:** Streamline operations with a custom solution.
-- **Entrepreneurs:** Grow your online presence and drive success.
-- **E-commerce Brands:** Enhance your store with a user-friendly app.
-- **Creative Professionals:** Showcase your talent with a captivating portfolio.
-
----
-
-## 🌟 Benefits to My Clients
-
-- **Tailored Solutions:** Custom-designed web applications to meet your unique business goals.
-- **Streamlined Processes:** Efficient workflows to save time and reduce operational costs.
-- **Scalability:** Future-proof solutions that grow with your business.
-- **Expert Guidance:** Professional insights and strategic advice.
-- **Improved User Experience:** Engaging designs that keep users coming back.
-- **Reliable Support:** Quick resolutions and ongoing maintenance.
-- **Competitive Edge:** Leveraging cutting-edge technologies and best practices.
-
----
 
 ## About Me
 
