@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I specialize in creating high-performance, user-fr
   
 ---
 
-## 🎓 Education
+### 🎓 Education
 
 - **Degree in Software Engineering and Computer Science**  
   École Nationale Supérieure d’Ingénieurs Sud Alsace (ENSISA)
@@ -39,20 +39,19 @@ Welcome to my GitHub profile! I specialize in creating high-performance, user-fr
 
 ---
 
-## 🤝 Open to Collaboration
+### 🤝 Open to Collaboration
 
 I am always interested in new challenges and opportunities to collaborate on exciting projects. Feel free to reach out!
 
 ---
 
-
-## About Me
+### About Me
 
 As a dedicated full-stack developer, I focus on creating tailored web applications that enhance user experience and meet business needs. With a passion for both front-end and back-end development, I empower businesses through technology, offering reliable support and strategic insights every step of the way.
 
 ---
 
-## Why Choose Me?
+### Why Choose Me?
 
 ✨ Partnering with me means gaining a dedicated ally committed to your success. My blend of technical expertise, proactive communication, and client-focused approach ensures that your projects are in capable hands.
 
