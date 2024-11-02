@@ -67,8 +67,7 @@ Welcome to my GitHub profile! I specialize in creating high-performance, user-fr
   </div>
 
   <div style="background-color: #151414; border: 1px solid #171717; border-radius: 8px; padding: 15px;">
-              <img src="https://raw.githubusercontent.com/imad-yassim/imad-yassim.github.io/main/kisaco-maker-screenshot.jpeg
-"
+              <img src="https://raw.githubusercontent.com/imad-yassim/imad-yassim.github.io/main/kisaco-maker-screenshot.jpeg"
 alt="Kisaco Maker" style="width: 100%; border-radius: 8px;">
     <h3 style="color: #8685ef;">🛠️ Kisaco Maker</h3>
     <p><strong>Description:</strong> Collaborated with the Kisaco teams to develop the Kisaco Maker app, completing both front-end and back-end features and integrating a seamless payment system.</p>
