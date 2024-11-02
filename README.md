@@ -32,13 +32,12 @@ Welcome to my GitHub profile! I specialize in creating high-performance, user-fr
 
 ### 🗂️ Featured Projects
 
-## 🗂️ Featured Projects
-
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; background-color: #171717; padding: 20px; color: #e9e8ed;">
 
   <div style="background-color: #151414; border: 1px solid #171717; border-radius: 8px; padding: 15px;">
   <img src="https://raw.githubusercontent.com/imad-yassim/imad-yassim.github.io/main/raijin-app-screenshot.jpeg"
-     alt="Shuriken Spin" style="width: 100%; border-radius: 8px; aspect-ratio: 16/9; object-fit:cover">    <h3 style="color: #8685ef;">🚀 Raijin Mobile App</h3>
+     alt="Shuriken Spin" style="width: 100%; border-radius: 8px; aspect-ratio: 16/9; object-fit:cover">
+    <h3 style="color: #8685ef;">🚀 Raijin Mobile App</h3>
     <p><strong>Description:</strong> Contracted to develop the Raijin app, an NFT market analysis platform, creating robust front-end and back-end systems to deliver real-time insights and analytics for users.</p>
     <p><strong>Technologies:</strong> React Native, Android Studio, Xcode, NestJS, Google Cloud, GitHub, MongoDB, Redis</p>
   </div>
